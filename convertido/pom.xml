@@ -4,4 +4,8 @@
   <artifactId>convertido</artifactId>
   <version>1.0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>convertido-core</module>
+  	<module>convertido-web</module>
+  </modules>
 </project>
